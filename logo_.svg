@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="256"
+   height="150"
+   version="1.1"
+   id="svg4816">
+  <metadata
+     id="metadata4820">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4800">
+    <clipPath
+       id="symbol">
+      <rect
+         x="10"
+         y="64"
+         width="236"
+         height="128"
+         id="svg_1" />
+    </clipPath>
+  </defs>
+  <g
+     transform="translate(1.0847458,-51.762712)"
+     id="g4805">
+    <title
+       id="title4802">background</title>
+    <rect
+       style="fill:none"
+       x="-1"
+       y="-1"
+       width="50.29847"
+       height="50.29847"
+       id="canvas_background" />
+  </g>
+  <g
+     transform="translate(1.0847458,-51.762712)"
+     id="g4814">
+    <title
+       id="title4807">Layer 1</title>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:10"
+       x="11.33735"
+       y="64.668671"
+       width="236"
+       height="128"
+       clip-path="url(#symbol)"
+       id="svg_2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5"
+       d="M 12.00602,64.66867 128.66867,160 V 96 l 118,96"
+       clip-path="url(#symbol)"
+       id="svg_3" />
+    <rect
+       transform="matrix(0.79926608,0.60097732,-0.65727052,0.75365474,0,0)"
+       id="svg_8"
+       height="55.670036"
+       width="74.200081"
+       y="29.351202"
+       x="101.71109"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:5.74763107" />
+    <text
+       transform="matrix(0.76283266,0.64112855,-0.61772971,0.79172782,0,0)"
+       x="100.18092"
+       y="70.667168"
+       id="svg_5"
+       style="font-size:17.4461441px;stroke:#000000;stroke-width:1.45384538">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:1.45384538"
+         id="tspan4824">Backend</tspan>
+    </text>
+    <text
+       transform="rotate(39)"
+       x="99.461342"
+       y="55.683392"
+       id="svg_4"
+       style="font-size:38.94729996px;stroke:#000000;stroke-width:3.24560833">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:3.24560833"
+         id="tspan4822">IuK</tspan>
+    </text>
+  </g>
+</svg>
