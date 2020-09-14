@@ -2,9 +2,8 @@ theme: jekyll-theme-minimal
 title: IuK-Backend
 description: Ein einfaches Einsatz Management Werkzeug
 show_downloads: "true"
-logo: "logo_.svg"
-githubProjectServerURL: ""
-githubProjectServerName: ""
+logo: "logo.png"
+githubProjectServerURL: "https://github.com/DieNrSieben/iuk-backend-server"
 githubProjectServerWinURL: ""
 githubProjectServerMacURL: ""
 githubProjectServerLnxURL: ""

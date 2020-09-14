@@ -10,12 +10,19 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <style>
+      body{
+      padding: 25px;
+    }
+    </style>
   </head>
   <body>
     <div class="wrapper">
       <header>
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <a href="/">
+            <img src="{{site.logo | relative_url}}" alt="Logo" />
+          </a>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -33,8 +40,14 @@
         {% endif %}
 
         <ul class="downloads">
-            <li style="width: 270px; border-right: 0px;"><a href="{{ site.githubProjectServerURL }}">View On <strong>GitHub</strong></a></li>
-          </ul>
+          <li style="width: 270px; border-right: 0px;"><a href="{{ site.githubProjectServerURL }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        <a href="/">Home</a><br>
+        <a href="/funktionen">Funktionen</a><br>
+        <a href="/screenshots">Screenshots</a><br>
+        <a href="/installieren">Installationsanleitung</a><br>
+        <a href="/changelog">Changelog</a><br>
+        <a href="/blog">Blog</a>
       </header>
       <section>
 
@@ -42,9 +55,6 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
