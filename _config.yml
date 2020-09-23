@@ -3,7 +3,7 @@ title: IuK-Backend
 description: Ein einfaches Einsatz Management Werkzeug
 show_downloads: "true"
 logo: "logo.png"
-githubProjectServerURL: "https://github.com/DieNrSieben/iuk-backend-server"
-githubProjectServerWinURL: ""
-githubProjectServerMacURL: ""
-githubProjectServerLnxURL: ""
+githubProjectServerURL: "https://github.com/iuk-backend/iuk-backend-server"
+githubProjectServerWinURL: "https://github.com/iuk-backend/iuk-backend-server/releases/latest/download/iuk-backend-server-windows.zip"
+githubProjectServerMacURL: "https://github.com/iuk-backend/iuk-backend-server/releases/latest/download/iuk-backend-server-macos.zip"
+githubProjectServerLnxURL: "https://github.com/iuk-backend/iuk-backend-server/releases/latest/download/iuk-backend-server-linux.zip"
