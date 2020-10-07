@@ -6,6 +6,20 @@ permalink: /funktionen
 
 > Ganz viel Text... Wenn Ihr interesse habt einfach Downloaden und ohne installation starten.
 
+[Allgemein / Technisch](#allgemein--technisch)  
+[Einsätze](#einsaetze)  
+[Objekte](#objekte)  
+[Einsatztagebuch](#einsatztagebuch)  
+[Patientenverwaltung](#patientenverwaltung)  
+[Bereitstellungsraum](#bereitstellungsraum)  
+[Lagekarte](#lagekarte)  
+[Tetra](#tetra)  
+
+## Allgemein / Technisch
+Der IuK-Backend Server ist in NodeJs geschriebn und stellt alle Funktionen über einen eingebauten Webserver bereit.  
+Als Datenbank format wird SQLite verwendet, da dies einfach genutzt werden kann und der Workload bei 20 Personen 
+
+
 ## Einsätze
 //todo beschreibung was ein Einsatz ist
 
@@ -23,13 +37,13 @@ Ein Objekt hat folgende Eigenschaften:
 Ein Einsatztagebuch pro Einsatz  
 Ein ETB Eintrag kann einem anderen ETB Eintrag angehangen werden.  
 ETB Einträge haben folgenden Eigenschaften:  
-Empfänger  
-Melder  
-Meldung   
-Priorität  
-Eintragender User  
-Übergeordneter Eintrag  
-Zeit des Eintragens  
+- Empfänger  
+- Melder  
+- Meldung   
+- Priorität  
+- Eintragender User  
+- Übergeordneter Eintrag  
+- Zeit des Eintragens  
 
 ## Patientenverwaltung
 Patienten können innerhalb eines Einsatzes verwaltet werden.  
