@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: IuK-Backend
-description: Ein einfaches Einsatz Management Werkzeug
+description: IuK-Backend digitale Unterstützung für IuK Gruppen.
 show_downloads: "true"
 logo: "/logo.png"
 lang: "de_DE"
